@@ -21,6 +21,7 @@ Final Project
 ## Installation
 pandas
 spark
+tableau
 
 
 
