@@ -5,7 +5,7 @@ Final Project
 [https://github.com/acwalker58/project_4]
 
 ## Description
-A machine learning model that analyzes the credit risk of individuals based on a variety of finacial markers.
+A machine learning model that analyzes the credit risk of individuals based on a variety of financial markers.
 
 ## Table of Contents
 
@@ -15,12 +15,14 @@ A machine learning model that analyzes the credit risk of individuals based on a
 
 - [Data_Sources]
 
-- [Ethical_Considerations] 
 
 
 ## Installation
 pandas
+numpy
+sklearn
 spark
+keras
 tableau
 
 
@@ -40,7 +42,4 @@ https://pandas.pydata.org/docs/index.html,
 https://stackoverflow.com/,
 https://www.geeksforgeeks.org/
 
-
-## Ethical_Considerations
-  
 
