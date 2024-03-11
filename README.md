@@ -5,7 +5,7 @@ Final Project
 [https://github.com/acwalker58/project_4]
 
 ## Description
-
+A machine learning model that analyzes the credit risk of individuals based on a variety of finacial markers.
 
 ## Table of Contents
 
